@@ -1,62 +1,34 @@
 <div align="center">
 
-# 🎮 FF BATTLECASH
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B00&height=120&section=header&text=FF%20BATTLECASH&fontSize=50&fontAlignY=35&desc=The%20Ultimate%20Tournament%20App&descAlignY=55&descSize=20&animation=twinkling" width="100%"/>
 
-## ![](assest/fficon.jpg)
+<img src="c:\Users\Sheikh Tamim\Desktop\FF-BATTLECASH-main\FF-BATTLECASH-main\assest\fficon.png" width="180" height="180" alt="FF BATTLECASH Logo" />
 
-### 🏆 The Ultimate Free Fire Tournament Earning App for Bangladesh 🏆
+# 🎮 FF BATTLECASH 🎮
+
+<a href="https://ffbattlecash.top/">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=25&pause=1000&color=FF6B00&center=true&vCenter=true&width=600&lines=Welcome+to+FF+BATTLECASH;Bangladesh's+%231+Tournament+App;Play.+Compete.+Earn+Real+Money!" alt="Typing SVG" />
+</a>
+
+<br/>
+
+[![Website](https://img.shields.io/badge/Official_Website-ffbattlecash.top-FF6B00?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ffbattlecash.top/)
+[![Web Client](https://img.shields.io/badge/Web_/_iOS_Client-Play_Now-7B2FBE?style=for-the-badge&logo=apple&logoColor=white)](https://ffbattlecash.top/client)
+
+<br/>
+<br/>
+
+![Total Visits](https://api.visitorbadge.io/api/visitors?path=FF-BATTLECASH-main-repo&label=🔥%20TOTAL%20VISITS&labelColor=%23000000&countColor=%23FF6B00&style=for-the-badge)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=FF6B00&height=50&section=footer&animation=twinkling" width="100%"/>
 
 </div>
 
 ## 📱 About FF BATTLECASH
 
-FF BATTLECASH is an Android application designed specifically for **Free Fire enthusiasts in Bangladesh (BD Zone)**. This innovative platform allows players to:
-
-- 🎮 **Join Tournaments**: Participate in exciting Free Fire matches with real prize pools
-- 💰 **Earn Real Money**: Win tournaments and earn actual money
-- ⚡ **Quick Matches**: Play multiple matches and accumulate earnings
-- 🏆 **Competitive Ranking**: Climb the leaderboard and compete with top players
-- 💳 **Easy Withdrawal**: Quick and secure payment methods
-
-Perfect for **Bangladeshi gamers** who want to monetize their Free Fire skills and compete in real tournaments.
-
----
-
-## 🎯 App Features
-
-| 🎮 Join Tournaments | 💰 Earn Real Money | ⚡ Quick Matches |
-|---|---|---|
-| Participate in exciting Free Fire matches with real prize pools. | Win tournaments and earn actual money directly. | Play multiple matches quickly and accumulate earnings faster. |
-
-| 🏆 Competitive Ranking | 💳 Secure Payments | 🔐 Safe & Secure |
-|---|---|---|
-| Climb the leaderboard and compete with top players. | Add money & withdraw earnings safely with multiple options. | Your data and transactions are fully protected. |
-
----
-
-## 📸 App Screenshots Gallery
-
-<div align="center">
-
-### 👤 User Profile
-
-![Profile](assest/profile.jpg)
-
----
-
-### 📱 App Interface Showcase
-
-#### Authentication
-
-| 🔐 Login | 📝 Create Account | 🔑 Reset Password |
-|:---:|:---:|:---:|
-| ![Login](assest/loginpage.jpg) | ![Create](assest/createpage.jpg) | ![Forget](assest/forgetpage.jpg) |
-
-#### Main Features
-
-| 🏠 Home | ⚔️ Matches | 🏆 Rankings |
-|:---:|:---:|:---:|
-<img align="right" src="./assest/homepage.jpg" width="220" />
+<img align="right" src="c:\Users\Sheikh Tamim\Desktop\FF-BATTLECASH-main\FF-BATTLECASH-main\assest\homepage.jpg" width="220" />
 
 **FF BATTLECASH** is an Android application and web platform designed specifically for **Free Fire enthusiasts in Bangladesh (BD Zone)**. Turn your Free Fire skills into real rewards!
 
@@ -80,27 +52,27 @@ Perfect for **Bangladeshi gamers** who want to monetize their Free Fire skills a
 ### 🔐 Authentication
 | Login | Create Account | Reset Password |
 |:---:|:---:|:---:|
-| <img src="./assest/loginpage.jpg" width="250"/> | <img src="./assest/createacc.jpg" width="250"/> | <img src="./assest/forgetpass.jpg" width="250"/> |
+| <img src="c:\Users\Sheikh Tamim\Desktop\FF-BATTLECASH-main\FF-BATTLECASH-main\assest\loginpage.jpg" width="250"/> | <img src="c:\Users\Sheikh Tamim\Desktop\FF-BATTLECASH-main\FF-BATTLECASH-main\assest\createacc.jpg" width="250"/> | <img src="c:\Users\Sheikh Tamim\Desktop\FF-BATTLECASH-main\FF-BATTLECASH-main\assest\forgetpass.jpg" width="250"/> |
 
 ### ⚔️ Main Features
 | Home | Open Challenge | My Matches |
 |:---:|:---:|:---:|
-| <img src="./assest/homepage.jpg" width="250"/> | <img src="./assest/openchallangemode.jpg" width="250"/> | <img src="./assest/mymatch.jpg" width="250"/> |
+| <img src="c:\Users\Sheikh Tamim\Desktop\FF-BATTLECASH-main\FF-BATTLECASH-main\assest\homepage.jpg" width="250"/> | <img src="c:\Users\Sheikh Tamim\Desktop\FF-BATTLECASH-main\FF-BATTLECASH-main\assest\openchallangemode.jpg" width="250"/> | <img src="c:\Users\Sheikh Tamim\Desktop\FF-BATTLECASH-main\FF-BATTLECASH-main\assest\mymatch.jpg" width="250"/> |
 
 ### 💰 Rankings & Wallet
 | Top Players | Wallet | Withdraw |
 |:---:|:---:|:---:|
-| <img src="./assest/topplayer.jpg" width="250"/> | <img src="./assest/wallet.jpg" width="250"/> | <img src="./assest/withdraw.jpg" width="250"/> |
+| <img src="c:\Users\Sheikh Tamim\Desktop\FF-BATTLECASH-main\FF-BATTLECASH-main\assest\topplayer.jpg" width="250"/> | <img src="c:\Users\Sheikh Tamim\Desktop\FF-BATTLECASH-main\FF-BATTLECASH-main\assest\wallet.jpg" width="250"/> | <img src="c:\Users\Sheikh Tamim\Desktop\FF-BATTLECASH-main\FF-BATTLECASH-main\assest\withdraw.jpg" width="250"/> |
 
 ### 🤖 Social & AI
 | Profile | Gift Center | AI Chat |
 |:---:|:---:|:---:|
-| <img src="./assest/myprofile.jpg" width="250"/> | <img src="./assest/giftsend.jpg" width="250"/> | <img src="./assest/chatai.jpg" width="250"/> |
+| <img src="c:\Users\Sheikh Tamim\Desktop\FF-BATTLECASH-main\FF-BATTLECASH-main\assest\myprofile.jpg" width="250"/> | <img src="c:\Users\Sheikh Tamim\Desktop\FF-BATTLECASH-main\FF-BATTLECASH-main\assest\giftsend.jpg" width="250"/> | <img src="c:\Users\Sheikh Tamim\Desktop\FF-BATTLECASH-main\FF-BATTLECASH-main\assest\chatai.jpg" width="250"/> |
 
 ### 💬 Support & Info
 | Support Chat | Developer |
 |:---:|:---:|
-| <img src="./assest/supportchat.jpg" width="250"/> | <img src="./assest/developer.jpg" width="250"/> |
+| <img src="c:\Users\Sheikh Tamim\Desktop\FF-BATTLECASH-main\FF-BATTLECASH-main\assest\supportchat.jpg" width="250"/> | <img src="c:\Users\Sheikh Tamim\Desktop\FF-BATTLECASH-main\FF-BATTLECASH-main\assest\developer.jpg" width="250"/> |
 
 ---
 
@@ -166,9 +138,5 @@ Connect with thousands of Free Fire players and stay updated with latest tournam
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B00&height=120&section=footer&animation=twinkling" width="100%"/>
 
 ## 🚀 **START EARNING FROM YOUR FREE FIRE SKILLS TODAY!** 🚀
-
-### Download FF BATTLECASH Now and Join the Community!
-
-**[YouTube](https://youtube.com/@ffbattlecash) | [TikTok](https://www.tiktok.com/@ff.battlecash) | [WhatsApp](https://chat.whatsapp.com/DbmZs0n6Z931P5vaj8PYGK?s=cl&p=i&ilr=4&amv=2) | [Facebook](https://www.facebook.com/share/18zga4jJnY/?mibextid=wwXIfr) | [Instagram](https://instagram.com/sheikh.tamim_lover)**
 
 </div> 
