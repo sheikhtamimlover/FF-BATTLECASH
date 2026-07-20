@@ -56,7 +56,7 @@ Perfect for **Bangladeshi gamers** who want to monetize their Free Fire skills a
 
 | 🏠 Home | ⚔️ Matches | 🏆 Rankings |
 |:---:|:---:|:---:|
-<img align="right" src="assest/homepage.jpg" width="220" />
+<img align="right" src="./assest/homepage.jpg" width="220" />
 
 **FF BATTLECASH** is an Android application and web platform designed specifically for **Free Fire enthusiasts in Bangladesh (BD Zone)**. Turn your Free Fire skills into real rewards!
 
@@ -80,27 +80,27 @@ Perfect for **Bangladeshi gamers** who want to monetize their Free Fire skills a
 ### 🔐 Authentication
 | Login | Create Account | Reset Password |
 |:---:|:---:|:---:|
-| <img src="assest/loginpage.jpg" width="250"/> | <img src="assest/createacc.jpg" width="250"/> | <img src="assest/forgetpass.jpg" width="250"/> |
+| <img src="./assest/loginpage.jpg" width="250"/> | <img src="./assest/createacc.jpg" width="250"/> | <img src="./assest/forgetpass.jpg" width="250"/> |
 
 ### ⚔️ Main Features
 | Home | Open Challenge | My Matches |
 |:---:|:---:|:---:|
-| <img src="assest/homepage.jpg" width="250"/> | <img src="assest/openchallangemode.jpg" width="250"/> | <img src="assest/mymatch.jpg" width="250"/> |
+| <img src="./assest/homepage.jpg" width="250"/> | <img src="./assest/openchallangemode.jpg" width="250"/> | <img src="./assest/mymatch.jpg" width="250"/> |
 
 ### 💰 Rankings & Wallet
 | Top Players | Wallet | Withdraw |
 |:---:|:---:|:---:|
-| <img src="assest/topplayer.jpg" width="250"/> | <img src="assest/wallet.jpg" width="250"/> | <img src="assest/withdraw.jpg" width="250"/> |
+| <img src="./assest/topplayer.jpg" width="250"/> | <img src="./assest/wallet.jpg" width="250"/> | <img src="./assest/withdraw.jpg" width="250"/> |
 
 ### 🤖 Social & AI
 | Profile | Gift Center | AI Chat |
 |:---:|:---:|:---:|
-| <img src="assest/myprofile.jpg" width="250"/> | <img src="assest/giftsend.jpg" width="250"/> | <img src="assest/chatai.jpg" width="250"/> |
+| <img src="./assest/myprofile.jpg" width="250"/> | <img src="./assest/giftsend.jpg" width="250"/> | <img src="./assest/chatai.jpg" width="250"/> |
 
 ### 💬 Support & Info
 | Support Chat | Developer |
 |:---:|:---:|
-| <img src="assest/supportchat.jpg" width="250"/> | <img src="assest/developer.jpg" width="250"/> |
+| <img src="./assest/supportchat.jpg" width="250"/> | <img src="./assest/developer.jpg" width="250"/> |
 
 ---
 
