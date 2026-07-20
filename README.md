@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B00&height=120&section=header&text=FF%20BATTLECASH&fontSize=50&fontAlignY=35&desc=The%20Ultimate%20Tournament%20App&descAlignY=55&descSize=20&animation=twinkling" width="100%"/>
 
-<img src="c:\Users\Sheikh Tamim\Desktop\FF-BATTLECASH-main\FF-BATTLECASH-main\assest\fficon.png" width="180" height="180" alt="FF BATTLECASH Logo" />
+<img src="assest/fficon.png" width="180" height="180" alt="FF BATTLECASH Logo" />
 
 # 🎮 FF BATTLECASH 🎮
 
@@ -16,9 +16,16 @@
 [![Web Client](https://img.shields.io/badge/Web_/_iOS_Client-Play_Now-7B2FBE?style=for-the-badge&logo=apple&logoColor=white)](https://ffbattlecash.top/client)
 
 <br/>
-<br/>
 
-![Total Visits](https://api.visitorbadge.io/api/visitors?path=FF-BATTLECASH-main-repo&label=🔥%20TOTAL%20VISITS&labelColor=%23000000&countColor=%23FF6B00&style=for-the-badge)
+<div align="center">
+
+### 👁️ Repository Analytics
+
+[![Total Visits](https://api.visitorbadge.io/api/visitors?path=FF-BATTLECASH-Repo-sheikhtamimlover&label=TOTAL%20REPOSITORY%20VISITS&labelColor=%23000000&countColor=%23FF6B00&style=for-the-badge)](https://visitorbadge.io/status?path=FF-BATTLECASH-Repo-sheikhtamimlover)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsheikhtamimlover%2FFF-BATTLECASH&count_bg=%23FF6B00&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=UNIQUE+VISITORS&edge_flat=false)](https://hits.seeyoufarm.com)
+![Profile Views](https://komarev.com/ghpvc/?username=sheikhtamimlover&label=GITHUB+PROFILE+VIEWS&color=7B2FBE&style=for-the-badge)
+
+</div>
 
 <br/>
 
@@ -28,7 +35,7 @@
 
 ## 📱 About FF BATTLECASH
 
-<img align="right" src="c:\Users\Sheikh Tamim\Desktop\FF-BATTLECASH-main\FF-BATTLECASH-main\assest\homepage.jpg" width="220" />
+<img align="right" src="assest/homepage.jpg" width="220" />
 
 **FF BATTLECASH** is an Android application and web platform designed specifically for **Free Fire enthusiasts in Bangladesh (BD Zone)**. Turn your Free Fire skills into real rewards!
 
@@ -52,27 +59,27 @@
 ### 🔐 Authentication
 | Login | Create Account | Reset Password |
 |:---:|:---:|:---:|
-| <img src="c:\Users\Sheikh Tamim\Desktop\FF-BATTLECASH-main\FF-BATTLECASH-main\assest\loginpage.jpg" width="250"/> | <img src="c:\Users\Sheikh Tamim\Desktop\FF-BATTLECASH-main\FF-BATTLECASH-main\assest\createacc.jpg" width="250"/> | <img src="c:\Users\Sheikh Tamim\Desktop\FF-BATTLECASH-main\FF-BATTLECASH-main\assest\forgetpass.jpg" width="250"/> |
+| <img src="assest/loginpage.jpg" width="250"/> | <img src="assest/createacc.jpg" width="250"/> | <img src="assest/forgetpass.jpg" width="250"/> |
 
 ### ⚔️ Main Features
 | Home | Open Challenge | My Matches |
 |:---:|:---:|:---:|
-| <img src="c:\Users\Sheikh Tamim\Desktop\FF-BATTLECASH-main\FF-BATTLECASH-main\assest\homepage.jpg" width="250"/> | <img src="c:\Users\Sheikh Tamim\Desktop\FF-BATTLECASH-main\FF-BATTLECASH-main\assest\openchallangemode.jpg" width="250"/> | <img src="c:\Users\Sheikh Tamim\Desktop\FF-BATTLECASH-main\FF-BATTLECASH-main\assest\mymatch.jpg" width="250"/> |
+| <img src="assest/homepage.jpg" width="250"/> | <img src="assest/openchallangemode.jpg" width="250"/> | <img src="assest/mymatch.jpg" width="250"/> |
 
 ### 💰 Rankings & Wallet
 | Top Players | Wallet | Withdraw |
 |:---:|:---:|:---:|
-| <img src="c:\Users\Sheikh Tamim\Desktop\FF-BATTLECASH-main\FF-BATTLECASH-main\assest\topplayer.jpg" width="250"/> | <img src="c:\Users\Sheikh Tamim\Desktop\FF-BATTLECASH-main\FF-BATTLECASH-main\assest\wallet.jpg" width="250"/> | <img src="c:\Users\Sheikh Tamim\Desktop\FF-BATTLECASH-main\FF-BATTLECASH-main\assest\withdraw.jpg" width="250"/> |
+| <img src="assest/topplayer.jpg" width="250"/> | <img src="assest/wallet.jpg" width="250"/> | <img src="assest/withdraw.jpg" width="250"/> |
 
 ### 🤖 Social & AI
 | Profile | Gift Center | AI Chat |
 |:---:|:---:|:---:|
-| <img src="c:\Users\Sheikh Tamim\Desktop\FF-BATTLECASH-main\FF-BATTLECASH-main\assest\myprofile.jpg" width="250"/> | <img src="c:\Users\Sheikh Tamim\Desktop\FF-BATTLECASH-main\FF-BATTLECASH-main\assest\giftsend.jpg" width="250"/> | <img src="c:\Users\Sheikh Tamim\Desktop\FF-BATTLECASH-main\FF-BATTLECASH-main\assest\chatai.jpg" width="250"/> |
+| <img src="assest/myprofile.jpg" width="250"/> | <img src="assest/giftsend.jpg" width="250"/> | <img src="assest/chatai.jpg" width="250"/> |
 
 ### 💬 Support & Info
 | Support Chat | Developer |
 |:---:|:---:|
-| <img src="c:\Users\Sheikh Tamim\Desktop\FF-BATTLECASH-main\FF-BATTLECASH-main\assest\supportchat.jpg" width="250"/> | <img src="c:\Users\Sheikh Tamim\Desktop\FF-BATTLECASH-main\FF-BATTLECASH-main\assest\developer.jpg" width="250"/> |
+| <img src="assest/supportchat.jpg" width="250"/> | <img src="assest/developer.jpg" width="250"/> |
 
 ---
 
